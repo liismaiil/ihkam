@@ -18,13 +18,15 @@ const navigation = [
     links: [
       { title: 'hadiths 1', href: '/docs/hadith' },
       { title: 'hadiths 2', href: '/docs/hadith-2' },
-      { title: 'al fikh al maliki I', href: '/docs/fikh-maliki-first' },
-      { title: 'al fikh al maliki II', href: '/docs/fikh-maliki-second' },
-      { title: 'al fikh al maliki III', href: '/docs/fikh-maliki-third' },
+      { title: 'al fikh al maliki I / 24 ', href: '/docs/fikh-maliki-first' },
+      { title: 'al fikh al maliki II / 24', href: '/docs/fikh-maliki-second' },
+      { title: 'al fikh al maliki III / 24', href: '/docs/fikh-maliki-third' },
+      { title: 'al fikh al maliki III / 25', href: '/docs/fikh-maliki-third-2' },
       
     ],
   },
    /* {
+   la 1ila8ha 1la ALLAH
     title: 'Le chemin des vertueux shares',
     links: [
       { title: 'fondements ', href: '/docs/vertueux' },
