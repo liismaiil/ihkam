@@ -1,6 +1,6 @@
 const navigation = [
   {
-    title: 'Ihkam shares',
+    title: 'Ihkam shares 2024',
     links: [
       { title: '3akida 1', href: '/docs/3akida' },
       { title: '3akida 2', href: '/docs/3akida-2' },
@@ -14,25 +14,15 @@ const navigation = [
     ],
   },
   {
-    title: 'Mydars shares',
+    title: 'Ihkam shares 2025',
     links: [
-      { title: 'hadiths 1', href: '/docs/hadith' },
-      { title: 'hadiths 2', href: '/docs/hadith-2' },
-      { title: 'al fikh al maliki I / 24 ', href: '/docs/fikh-maliki-first' },
-      { title: 'al fikh al maliki II / 24', href: '/docs/fikh-maliki-second' },
-      { title: 'al fikh al maliki III / 24', href: '/docs/fikh-maliki-third' },
-      { title: 'al fikh al maliki III / 25', href: '/docs/fikh-maliki-third-2' },
+      { title: '3akida 1', href: '/docs/3akida' },
+      { title: 'Tahsin al fikri 1', href: '/docs/tahsin-al-fikri' },
+      { title: 'Osoul al Fiqh 1', href: '/docs/osoul-al-fikh' },
+      { title: 'Anahwo 1', href: '/docs/anahwo' },
       
     ],
   },
-   /* {
-   la 1ila8ha 1la ALLAH
-    title: 'Le chemin des vertueux shares',
-    links: [
-      { title: 'fondements ', href: '/docs/vertueux' },
-      
-    ],
-  }, */
    {
     title: 'Contributing',
     links: [

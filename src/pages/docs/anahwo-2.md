@@ -1,6 +1,6 @@
 ---
 title: Annahwo 2 
-pageTitle: Annahwo 2 .
+pageTitle: Annahwo- (part two). 2024
 description: Arabic gramar.
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')

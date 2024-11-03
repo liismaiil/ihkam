@@ -1,6 +1,6 @@
 ---
 title: 3akida
-pageTitle: 3akida Darat albayan - .
+pageTitle: 3akida Darat albayan (part one). 2024
 description: Cours about foundations of dogme .
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')

@@ -1,6 +1,6 @@
 ---
 title: Tahsin al fikri 2
-pageTitle: Tahsin al fikri- 2 .
+pageTitle: Tahsin al fikri (part two). 2024
 description: Cours about protection about all polyteists ideas .
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')

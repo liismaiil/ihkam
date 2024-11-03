@@ -1,6 +1,6 @@
 ---
 title: Osoul al fikh 2
-pageTitle: Osoul Al fikh 2 .
+pageTitle: Osoul Al fikh (part two). 2024
 description: Cours about foundation of juridiction some rules.
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')

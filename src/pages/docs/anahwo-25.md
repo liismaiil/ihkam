@@ -1,6 +1,6 @@
 ---
 title: Annahwo  
-pageTitle: Annahwo- .
+pageTitle: Annahwo- (part one). 2025
 description: Arabic gramar.
 ---
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
@@ -21,7 +21,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-29-13.png.webp "page 13 ")
 ![cours](/images/nahwo/nahwo-29-14.png.webp "page 14 ")
 ![cours](/images/nahwo/nahwo-29-15.png.webp "page 15 ")
-![cours](/images/nahwo/nahwo-29-16.png.webp "page 16 ")
+
 
 ### Cours 30 [📹️](https://www.youtube.com/watch?v=9dOcM30lTiY)
 
@@ -37,4 +37,3 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-30-11.png.webp "page 11 ")
 ![cours](/images/nahwo/nahwo-30-12.png.webp "page 12 ")
 ![cours](/images/nahwo/nahwo-30-13.png.webp "page 13 ")
-![cours](/images/nahwo/nahwo-30-14.png.webp "page 14 ")

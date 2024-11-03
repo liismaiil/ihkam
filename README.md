@@ -1,6 +1,6 @@
-# ihmy-share
+# ihkam  shares for instruts students all the usefull documents and link lectures,
 
-ihmy-share is a usefull document sharing  front end . 
+ihkam institut share is a usefull documents sharing front end, enjoy this usefull knowlege   . 
 
 ## Getting started
 
@@ -20,5 +20,6 @@ Finally, open [http://localhost:3000](http://localhost:3000) in your browser to 
 
 ## Customizing
 
-You can start editing this repository  by modifying the files in the `/pages/docs` folder. feel free to copy one file and modify it , it s a regular markdown file, you can add link in the side bar by adding an entry to constants file in `/src/components` repository.
+You can start editing this repository  by modifying the files in the `/pages/docs` folder. 
+feel free to copy one file and modify it, it s a regular markdown file, you can add links in the side bar by adding entries to constants file in `/src/components` repository.
 

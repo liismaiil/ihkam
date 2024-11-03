@@ -1,6 +1,7 @@
 ---
 title: How to contribute
-description: Quidem magni aut exercitationem maxime rerum eos.
+pageTitle: How to contribute to our project
+description: Contribute to progress .
 ---
 
 ## Some tools you need to get involved 
